@@ -142,11 +142,11 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ---
 
-## 👤 Author
+## Author
 
 **Shreyansh Mishra**
-- Email: [shrey1721@gmail.com](mailto:shrey1721@gmail.com)
-- GitHub: [@shrey1888](https://github.com/shrey1888)
+
+- GitHub: @shrey1888
 
 ---
 
